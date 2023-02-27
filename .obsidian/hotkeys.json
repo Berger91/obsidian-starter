@@ -1,0 +1,41 @@
+{
+  "quickadd:choice:4fc43eae-1c94-45b0-ab70-f6c4552c001f": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "periodic-notes:open-weekly-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ";"
+    }
+  ],
+  "periodic-notes:prev-weekly-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "periodic-notes:next-weekly-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ],
+  "workspace:next-tab": [],
+  "workspace:previous-tab": [],
+  "markdown-prettifier:markdown-prettifier-run": []
+}
