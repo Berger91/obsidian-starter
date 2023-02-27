@@ -7,7 +7,7 @@ Starter that help to start with your fresh noting journey in couple of minutes.
 1. Install obsidian.md 
 2. Clone this repository wherever you want
 3. Open cloned directory as new obsidian vault  
-   ![[Pasted image 20230227165837.png]]
+   ![1.png](./attachments/1.png)
 4. Remove `.git` direcory
 5. Play and Have fun with your notes
 
