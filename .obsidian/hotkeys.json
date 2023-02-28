@@ -37,5 +37,13 @@
   ],
   "workspace:next-tab": [],
   "workspace:previous-tab": [],
-  "markdown-prettifier:markdown-prettifier-run": []
+  "markdown-prettifier:markdown-prettifier-run": [],
+  "obsidian-tasks-plugin:toggle-done": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ]
 }

@@ -9,7 +9,8 @@ Starter that help to start with your fresh noting journey in couple of minutes.
 3. Open cloned directory as new obsidian vault  
    ![1.png](./attachments/1.png)
 4. Remove `.git` direcory
-5. Play and Have fun with your notes
+5. Play and Have fun with your notes 
+6. (Optionally) Follow further instruction directly from the obsidian [[Getting Started]]
 
 ## Plugins
 
